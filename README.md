@@ -80,7 +80,7 @@ We conducted experiments on Automatic Speech Recognition (ASR) and Speaker Verif
 
 You can access the ChildMandarin dataset on HuggingFace Datasets:
 
-[https://huggingface.co/datasets/BAAI/ChildMandarin](https://huggingface.co/datasets/BAAI/Emotiontalk)
+[https://huggingface.co/datasets/BAAI/Emotiontalk](https://huggingface.co/datasets/BAAI/Emotiontalk)
 
 
 
