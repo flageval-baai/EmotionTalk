@@ -117,7 +117,7 @@ We conducted experiments on Unimodal Emotion Recognition, Multimodal Emotion Rec
 
 ## 🤗 Dataset Download
 
-You can access the ChildMandarin dataset on HuggingFace Datasets:
+You can access the Emotiontalk dataset on HuggingFace Datasets:
 
 [https://huggingface.co/datasets/BAAI/Emotiontalk](https://huggingface.co/datasets/BAAI/Emotiontalk)
 
